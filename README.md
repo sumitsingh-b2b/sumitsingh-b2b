@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sumitsingh-b2b
-- 👀 I’m interested in IBM Sterling B2Bi based Integration Solutions
-- 🌱 I’m currently learning AWS cloud services & Microservices
+- 👋 Hi, I’m Sumit Singh
+- 👀 I’m interested in providing IBM Sterling B2Bi based Integration Solutions
+- 🌱 I’m currently learning AWS cloud services & Microservices, this will help to have wider options to integrate with cloud techhologies.
 - 📫 How to reach me on twitter @SinghSumit0111
 
 <!---
